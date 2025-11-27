@@ -1,16 +1,14 @@
-## Hi there 👋
+#김선우
+Developer
 
-<!--
-**sun10597/sun10597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📩 Email
 
-Here are some ideas to get you started:
+lime4916@naver.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐈‍⬛ Github
+
+https://github.com/sun10597
+
+👩‍💻 Notion 포트폴리오
+
+https://www.notion.so/2b6626124588819cad13d40b6e67f1b4?v=2b6626124588810ba1a2000c419b395f&source=copy_link
