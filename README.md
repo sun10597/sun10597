@@ -2,13 +2,13 @@
 
 Developer
 
-📩 Email
-
-lime4916@naver.com
-
 📞 Tel
 
 010-3278-1757
+
+📩 Email
+
+lime4916@naver.com
 
 👩‍💻 Notion 포트폴리오
 
