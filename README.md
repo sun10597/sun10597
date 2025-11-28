@@ -6,9 +6,9 @@ Developer
 
 lime4916@naver.com
 
-🐈‍⬛ Github
+📞 Tel
 
-https://github.com/sun10597
+010-3278-1757
 
 👩‍💻 Notion 포트폴리오
 
