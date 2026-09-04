@@ -55,7 +55,7 @@ Developer
   - 구매처·위치·자산 상태 조회·수정·삭제 기능 구현
   - 마이페이지 내 휴대폰 번호·비밀번호 변경, 그룹 관리, 약관, 계정 탈퇴 기능 구현
 - 기술: `Java`, `Spring`, `전자정부프레임워크`, `MyBatis`, `JSP`, `JavaScript`, `MySQL`, `Maven`
-- [Repository](https://github.com/sun10597/itman)
+- [Repository](https://github.com/sun10597/itman) · [Notion](https://app.notion.com/p/IT-ITMAN-2b8626124588804b9f88d2626e44f1cd)
 
 ### CapUp
 > 사용자가 업로드한 미디어를 AI가 분석해 스토리라인과 타임라인을 만들고, 쇼츠 영상으로 자동 렌더링하는 AI 영상 제작 서비스
@@ -68,4 +68,4 @@ Developer
   - MoviePy 기반 쇼츠 영상 자동 렌더링 및 다운로드
   - 영상 라이브러리, 편집 화면, 템플릿 UI 제공
 - 기술: `React`, `TypeScript`, `Vite`, `Tailwind CSS`, `Supabase`, `Python`, `FastAPI`, `LangChain`, `OpenAI API`, `MoviePy`, `OpenCV`, `Docker`
-- [Repository](https://github.com/sun10597/CapUp)
+- [Repository](https://github.com/sun10597/CapUp) · [Notion](https://app.notion.com/p/CapUp-2b86261245888019943dcf2a5987e0a3)
