@@ -36,7 +36,7 @@ Developer
   - 프론트엔드 공통 작업 참여
 - 기술: `Java 17`, `Spring Boot`, `Spring Security`, `JWT`, `OAuth2`, `JPA`, `PostgreSQL`, `Next.js`, `React`, `Docker`, `GitHub Actions`
 - 주요 구현: Access/Refresh Token 분리 및 토큰 회전, 결제 서버 재조회·웹훅 검증으로 결제 신뢰성 확보, 역할 기반 접근 제어
-- [Repository](https://github.com/sun10597/MentorBridge) · [Notion](https://app.notion.com/p/2b662612458880b78d5af4eeb3301964?p=d3d62612458883b9970c0168db666e91&pm=c) · [Service](https://like-lion-team5-find-answer.vercel.app)
+- [Repository](https://github.com/sun10597/MentorBridge) · [Notion](https://app.notion.com/p/MentorBridge-d3d62612458883b9970c0168db666e91) · [Service](https://like-lion-team5-find-answer.vercel.app)
 
 ### ITMAN
 > 조직·직원·자산 정보를 한곳에서 관리하고 변경 이력을 추적할 수 있는 웹 기반 IT 자산 관리 시스템
